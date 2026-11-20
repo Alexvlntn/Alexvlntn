@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+<img width="100%" alt="portada" src="https://github.com/user-attachments/assets/24cd3df9-fc78-44c3-8738-df8de579535e" />
 
-<!--
-**Alexvlntn/Alexvlntn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Alex
 
-Here are some ideas to get you started:
+Desarrollador mainframe de día y estudiante de Ingeniería en Sistemas. Me gusta entender cómo funcionan las cosas por dentro. Ahora estoy llevando lo que sé del mainframe hacia Linux y DevOps.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Lenguajes** &nbsp; COBOL JCL SQL Python Bash CSS
+<br>
+**Plataformas** &nbsp; z/OS CICS DB2 VSAM 
+<br>
+**Aprendiendo** &nbsp; Docker CI/CD administración Linux
+</div>
