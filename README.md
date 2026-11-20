@@ -1,9 +1,12 @@
 <div align="center">
-<img width="100%" alt="portada" src="https://github.com/user-attachments/assets/24cd3df9-fc78-44c3-8738-df8de579535e" />
+
+<img width="100%" height="125" alt="nubes" src="https://github.com/user-attachments/assets/7bb4a182-b9f5-45de-bc12-eee4fd85f5f5" />
 
 # Hola, soy Alex
 
-Desarrollador mainframe de día y estudiante de Ingeniería en Sistemas. Me gusta entender cómo funcionan las cosas por dentro. Ahora estoy llevando lo que sé del mainframe hacia Linux y DevOps.
+Desarrollador y estudiante de Ingeniería en Sistemas. 
+<br>
+Me gusta entender cómo funcionan las cosas por dentro. 
 
 **Lenguajes** &nbsp; COBOL JCL SQL Python Bash CSS
 <br>
